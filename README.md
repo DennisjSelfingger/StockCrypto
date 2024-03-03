@@ -1,0 +1,2 @@
+# StockCrypto
+Machine learning project
